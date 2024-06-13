@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: genimi
+Version: 0.1.0
+Requires-Python: >=3.10
+Requires-Dist: google-generativeai
+Requires-Dist: vertexai
+Requires-Dist: google-cloud-aiplatform
+Requires-Dist: google

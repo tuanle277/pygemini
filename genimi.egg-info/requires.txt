@@ -1,0 +1,4 @@
+google-generativeai
+vertexai
+google-cloud-aiplatform
+google
