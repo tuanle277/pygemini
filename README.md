@@ -2,12 +2,8 @@
 
 ## Prerequisites
 
-1. Python 3.10+
-2. Install required packages:
-   ```sh
-   pip install -e .
-   ```
-4. Set up a Google Cloud project and enable the necessary APIs.
+1. Python 3.10+ (can create venv)
+2. Set up a Google Cloud project and enable the necessary APIs.
 
 ## Installation
 Clone the repository:
@@ -18,7 +14,7 @@ cd pygemini
 
 Install the required dependencies:
 ```sh
-pip install -r requirements.txt
+pip install -e .
 ```
 
 ## Configuration
@@ -95,7 +91,7 @@ Provides the command-line interface for setting environment variables and genera
 4. Commit your changes (git commit -am 'Add new feature')
 5. Push to the branch (git push origin feature-branch)
 6. Create a new Pull Request
-7. 
+   
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
